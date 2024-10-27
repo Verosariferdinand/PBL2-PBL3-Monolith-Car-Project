@@ -25,3 +25,9 @@ instal sqlite3 untuk menjalankan code, klik link di bawah<br>
 <p class="has-line-data" data-line-start="35" data-line-end="37">langkah ke 8<br>
 pada file sqlite3, klik 2 kali. ketika sudah memasuki terminal ketik untuk membuka database</p>
 <pre><code class="has-line-data" data-line-start="38" data-line-end="40" class="language-sh">.open cars.py
+</code></pre>
+<p class="has-line-data" data-line-start="41" data-line-end="43">langkah ke 9<br>
+pada kolom pencarian google , ketik localhost:5010 untuk melihat website nya</p>
+<pre><code class="has-line-data" data-line-start="44" data-line-end="46" class="language-sh">http://localhost:<span class="hljs-number">5010</span>
+</code></pre>
+<p class="has-line-data" data-line-start="47" data-line-end="48">selesai</p>
