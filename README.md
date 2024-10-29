@@ -9,7 +9,7 @@ menginstall python<br>
 klik kanan pada folder yang sudah anda download, pilih open with git-bash</p>
 <p class="has-line-data" data-line-start="13" data-line-end="15">langkah ke 4<br>
 download semua extension yang sudah saya berikan pada file reuqquirement.txt</p>
-<pre><code class="has-line-data" data-line-start="16" data-line-end="18" class="language-sh">pip install -r requirements.txt
+<pre><code class="has-line-data" data-line-start="16" data-line-end="18" class="language-sh">pip install -r requirement.txt
 </code></pre>
 <p class="has-line-data" data-line-start="19" data-line-end="21">langkah ke 5<br>
 ketik seperti di bawah pada bash, untuk mendapatkan code</p>
